@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Remove Preferred Xenotype Limit</name>
+	<name>Remove Preferred Xenotype Limit: Ported</name>
 	<author>obama</author>
 	<packageId>Obama.Idontlike.PreferredXenolimit</packageId>
 	<supportedVersions>
