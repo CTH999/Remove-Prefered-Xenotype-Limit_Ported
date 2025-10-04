@@ -14,4 +14,12 @@
 	ported by CTH2004
 		P.S. if the author asks, I will remove this, no questions asked. So, if it disapeares, you know why!
 	</description>
+	<li>
+		<packageId>Ludeon.Rimworld.Ideology</packageId>
+		<displayName>Ideology</displayName>
+	</li>
+	<li>
+		<packageId>Ludeon.RimWorld.Biotech</packageId>
+		<displayName>Biotech</displayName>
+	</li>
 </ModMetaData>
